@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pedromg/encodeit.svg?branch=master)](https://travis-ci.org/pedromg/encodeit)
+
 # encodeit
 small cli program to encode a value from an io.Reader source into an encoding (default Base64)
 
